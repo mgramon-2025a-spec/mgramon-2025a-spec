@@ -1,0 +1,29 @@
+package Ejemplo4;
+
+public class Droide {
+    private String modelo;
+    private int energia;
+
+    public Droide(String modelo) {
+        this.modelo = modelo;
+        this.energia = 100;
+    }
+
+    public int getEnergia() {
+        return energia;
+    }
+
+    public void setEnergia(int energia) {
+        if (energia >= 0 && energia <= 100) {
+            this.energia = energia;
+        }
+    }
+}
+class App {
+    public static void main(String[] args) {
+        Droide r2d2 = new Droide("R2-D2");
+        System.out.println("Energía inicial: " + r2d2.getEnergia());
+        r2d2.setEnergia(80);
+        System.out.println("Energía actual: " + r2d2.getEnergia());
+    }
+}
