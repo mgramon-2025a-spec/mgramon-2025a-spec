@@ -9,10 +9,8 @@ CODE_ORGANIZATION: code-corhuila
 
 <h1 align="https://avatars.githubusercontent.com/u/262654949?v=4"</h1>
 
-<p align="center"María Gabriela Ramón Vargas >
-  <img src="https://github.com/mgramon-2025a-spec">
-</p>
-
+<p align="center"María Gabriela Ramón Vargas>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juanperezdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views"></p>
 ---
 
 ## Perfil
