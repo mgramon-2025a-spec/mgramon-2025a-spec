@@ -7,9 +7,8 @@ CODE_ORGANIZATION: code-corhuila
 -->
 
 
-<h1 align="https://avatars.githubusercontent.com/u/262654949?v=4"</h1>
 
-<p align="center"María Gabriela Ramón Vargas>
+<p align="center"María Gabriela Ramón Vargas></h1>
   
 <p align="center">
   <img src="https://github.com/mgramon-2025a-spec" alt="Profile views">
