@@ -10,7 +10,7 @@ CODE_ORGANIZATION: code-corhuila
 <h1 align="center">María Gabriela Ramón Vargas</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariavargasdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+  <img src="[https://komarev.com/ghpvc/?username=mariavargasdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views](https://github.com/mgramon-2025a-spec)">
 </p>
 
 ---
